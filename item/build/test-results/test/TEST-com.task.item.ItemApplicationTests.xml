@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.task.item.ItemApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-10T07:46:38.909Z" hostname="Atharvs-MacBook-Pro-2.local" time="1.002">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.task.item.ItemApplicationTests" time="0.343"/>
+  <system-out><![CDATA[13:16:38.975 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.task.item.ItemApplicationTests]: ItemApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+13:16:39.017 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.task.item.ItemApplication for test class com.task.item.ItemApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T13:16:39.177+05:30  INFO 44203 --- [item] [    Test worker] com.task.item.ItemApplicationTests       : Starting ItemApplicationTests using Java 17.0.10 with PID 44203 (started by atharvmangal in /Users/atharvmangal/IdeaProjects/item)
+2026-02-10T13:16:39.178+05:30  INFO 44203 --- [item] [    Test worker] com.task.item.ItemApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T13:16:39.558+05:30  INFO 44203 --- [item] [    Test worker] com.task.item.ItemApplicationTests       : Started ItemApplicationTests in 0.475 seconds (process running for 1.021)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
